@@ -1,0 +1,6 @@
+.CustomerCard {}
+
+.CompanyCard span {
+    font-size: medium;
+    color: red;
+}

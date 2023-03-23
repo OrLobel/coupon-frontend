@@ -1,0 +1,6 @@
+.CompanyCard {}
+
+.CompanyCard span {
+    font-size: medium;
+    color: red;
+}
